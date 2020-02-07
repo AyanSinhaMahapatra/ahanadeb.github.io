@@ -2,7 +2,7 @@
 title: I don't want to go to the protest today
 tags: TeXt
 article_header:
-  type: cover
+  type: 
   image:
     src: 
 ---
