@@ -4,8 +4,9 @@ tags: TeXt
 article_header:
   type: cover
   image:
-    src: /book.png
+    src: 
 ---
+![book image](/book.png)
 
 I don’t want to go to the protest today.
 And I don’t like being attacked for it.
@@ -22,7 +23,7 @@ But stop before you accuse me of anything. I made that post about UP children be
 And my writeups on hopelessness generated 200 shares on Facebook. Doesn't that qualify as "action"? I have a few Bhakts on my contact list too, I think I'm 2 links away from generating empathy in them. This is work and I don't care what you have to say.
 Someone on my friendlist made a post about how mental health should be our primary concern. "I have suffered from mental instability all my life. Frankly, it's insensitive and ableist of you to attack me like this, and expect me to show up at every protest", he wrote. Or something of the kind. Fair enough. Maybe the women who were brutalized by the police station are all undergoing state-mandated therapy. I can imagine them with slices of cucumbers on their eyes, a margarita in their hands, and their heads thrown back on the sofa, taking a "mental health" day. And what if not? I can afford to have anxiety, I can afford to take care of myself. So yes, it ableist of you to expect me to show up at a rally when I have a cocktail of mental illnesses, especially when all this hatred and violence doesn’t really affect me. I don’t say the last part out loud. People tend to be very judgemental.
 
-![My helpful screenshot](/book.png)
+
 
 
 
