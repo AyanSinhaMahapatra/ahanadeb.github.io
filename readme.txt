@@ -1,6 +1,6 @@
 ################################################################################################
 
-Documentation for Bootstrap Blog by Bootstrap Temple - https://bootstrapious.com
+Readme for Creative | Bootstrap 4 Template - https://bootstrapious.com
 
 ################################################################################################
 
@@ -10,68 +10,54 @@ thank you for downloading. Have fun and tell your friends about us ;)
 
 Ondrej, Bootstrapious
 
+---------------------
+ CSS
+---------------------
 
-CSS
-----------
-
-The theme stylesheet is css/style.default.css. If you want to make any changes, 
-you can do it here or better to override it in custom.css so you can update the original theme stylesheet if an updated is released. 
+The theme stylesheet is css/style.default.css. If you want to make any changes,
+you can do it here or better to override it in custom.css so you can update the original theme stylesheet if an updated is released.
 Changing to another colour variant, is just a matter of replacing css/style.default.css with css/style.pink.css in index.html.
 
-Javascript
-----------
+---------------------
+ JavaScript
+---------------------
 
-Apart from the Bootstrap JS components, the majority of JS is located in /js/front.js. 
+Apart from the Bootstrap JS components, the majority of JS is located in /js/front.js.
 
-Credits
----------
+---------------------
+ CREDITS
+---------------------
 
-- Botstrap - http://getbootstrap.com
+- Botstrap 4.1 - http://getbootstrap.com/
 - Font Awesome 4.7 - http://fontawesome.io/
-- Google Fonts - Roboto
 - more in credits.txt.
 
-Changelog
----------
+---------------------
+ Changelog
+---------------------
 
-Version 1.2.1 - 2018/04/19
+Version 2.0.1 - 2018/02/14
+--------------------------
+- updated: Bootstrap to 4.3.1
+- updated plugins: PopperJs, Masonry
 
-- updated: Bootstrap 4.3.1
-- updated plugins: Fancybox, PopperJs 
-
-
-Version 1.2.0 - 2018/04/19
-
-- updated: Bootstrap 4.1.0
-- updated plugins: jQuery, Fancybox, PopperJs
-
-Version 1.1.1 - 2017/11/07
-
-- removed Animsition 
-
-Version 1.1 - 2017/10/27
-
-- moved 3rd party scripts to /vendor directory
-- updated to Boostrap 4.0.0-beta2
-- CSS - vendor prefixing for last 2 browser versions
-
-Version 1.0 -  rel. 2017/08/08
-
-- Initial Release
-
+Version 2.0.0 - 2018/06/01
+--------------------------
+- remake and upgrade to Bootstrap to 4.1.1
 
 ---------------------
  LICENSE CONDITIONS
 ---------------------
 
-You are completely free to use this template for your personal use or as a work for your client as long as you keep the link at the template footer pointing to us and our partner. 
+You are completely free to use this template for your personal use or as a work for your client as
+long as you keep the link at the template footer pointing to us and our partner.
 
-If you would prefer removing the backlink from the theme footer, please purchase the attribution-free licese at https://bootstraptemple.com. The price of the license is mere $10. Also, as a bonus for donors, I can provide you the SASS files for even easier template customization. Drop me a line at hello@bootstraptemple.com after donating. 
+If you would prefer removing the backlink from the theme footer, please donate (https://bootstrapious.com/donate)
+to support themes' development. Suggested amount per template is $10.
+Also, as a bonus for donors, I can provide you the SASS files for even easier template customization.
+Drop me a line at hello@bootstrapious.com after donating.
 
-However,  you cannot redistribute the template nor its derivatives on the internet - neither for free or commercially (e.g. selling it on template marketplace).
+However you cannot redistribute the template nor its derivatives on the internet - neither
+for free or commercially (e.g. selling it on template marketplace).
 
 Thank you for understanding and respecting the license conditions.
-
-If more info needed, contact me at hello@bootstraptemple.com.
-
-Note: I distribute this template also on my second site, Bootstrapious. License conditions are the same, you can donate on Bootstrap Temple or Bootstrapious. Thanks :)
